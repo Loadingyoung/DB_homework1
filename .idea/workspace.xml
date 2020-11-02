@@ -22,16 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b52d981f-8d7a-4253-96d0-62daab72a738" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/Repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/Repository/BookRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/Repository/TitleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/Repository/TitleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/controller/HomeworkController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/controller/HomeworkController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/TitleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/TitleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/impl/TitleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/scu_db/demo/service/impl/TitleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="b52d981f-8d7a-4253-96d0-62daab72a738" name="Default Changelist" comment="first homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DB_homework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -83,7 +74,16 @@
       <updated>1604296424179</updated>
       <workItem from="1604296425318" duration="1935000" />
       <workItem from="1604298463733" duration="18000" />
+      <workItem from="1604300021588" duration="432000" />
     </task>
+    <task id="LOCAL-00001" summary="first homework">
+      <created>1604300087592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604300087592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +100,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="first homework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604296541222">
@@ -146,5 +150,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604298364605" />
+    <state x="700" y="169" key="RollbackChangesDialog" timestamp="1604300436003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="169" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604300436003" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604300117396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604300117396" />
   </component>
 </project>
